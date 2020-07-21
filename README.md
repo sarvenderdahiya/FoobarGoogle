@@ -1,0 +1,2 @@
+# FoobarGoogle
+In this repository, I keep my solutions to GoogleFoobar challenge. I received an email from Google after an event by Google in my university and at the bottom of it there was an image with a binary tree with letters and numbers that didnt make sense with normal traversal of the tree. But I tried reverse of the conventional traversals and it resulted in a hyperlink which led me to this challenge.
